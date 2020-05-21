@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/DoomDragon8/Project2/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/DoomDragon8/Project2/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
